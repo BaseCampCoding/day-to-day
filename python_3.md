@@ -1,4 +1,4 @@
-## Python Chapter 3
+# Python Chapter 3
 
 - Stay in http://pythontutor.com/live.html#mode=edit
 

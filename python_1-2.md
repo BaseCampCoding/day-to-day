@@ -1,5 +1,4 @@
-
-## Python Chapter 1-2
+# Python Chapter 1-2
 
 - Stay in http://pythontutor.com/live.html#mode=edit
 
