@@ -41,8 +41,11 @@ that students should be able to predict step-by-step by the end of the day.
 Then, they should be able to construct target programs using the new constructs
 in a prescribed way.
 
-**Assessment:** Students should be able to predict program behavior of a set of
-target code samples.
+**Prediction Assessment:**
+Students should be able to predict program behavior of a set of target code samples.
+
+**Program Assessment:**
+Students will construct programs according to a provided description.
 
 **Activities:**
 
@@ -50,7 +53,7 @@ target code samples.
 1. 15 min - Small, demo-focused lecture
 1. 45 min - Pair prediction exercise
 1. 45 min - Solo prediction exercise
-1. 15 min - Prediction assessment
+1. 15 min - **Prediction assessment**
 1. 45 min - Pair program construction exercise
 1. 45 min - Solo program construction exercise
-1. 45 min - Program construction assessment
+1. 30 min - **Program construction assessment**
