@@ -46,4 +46,16 @@ def paycheck_after_expenses(salary):
 
 graduate_salary = 50000
 graduate_paycheck_after_expenses = paycheck_after_expenses(graduate_salary)
+
+# What happens to `mystery_number`
+mystery_number = 10
+
+def mystery_function():
+    mystery_number = 5
+
+mystery_number # ??? What is it ???
+
+mystery_function()
+
+mystery_number # ??? What is it ???
 ```
