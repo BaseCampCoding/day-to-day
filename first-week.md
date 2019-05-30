@@ -44,8 +44,11 @@ in a prescribed way.
 **Prediction Assessment:**
 Students should be able to predict program behavior of a set of target code samples.
 
-**Program Assessment:**
+**Program Construction Assessment:**
 Students will construct programs according to a provided description.
+This is effectively a dictation exercise at this point.
+"Write an assignment statement that assigns the remainder of 5 divided by 3 to
+a variable x"
 
 **Activities:**
 
